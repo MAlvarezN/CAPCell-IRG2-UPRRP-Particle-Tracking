@@ -60,6 +60,30 @@ Progress to date includes:
 
 Additional development and evaluation are ongoing. The methods, results, and capabilities presented here may evolve as the research progresses.
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://github.com" controls width="100%"></video>
+      <br>
+      <strong>(a) Particle detection</strong>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://github.com" controls width="100%"></video>
+      <br>
+      <strong>(b) Single-particle tracking</strong>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://github.com" controls width="100%"></video>
+      <br>
+      <strong>(c) Multi-particle tracking</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Video 2. Examples of particle detection and tracking in bioreactor videos. The pipeline performs YOLO-based particle detection and tracks individual or multiple particles across consecutive video frames.</em>
+</p>
+
 
 > **Note:** This is a research showcase, not a software release. Source code, implementation details, and research datasets are not included in this public repository.
 
