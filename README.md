@@ -9,7 +9,7 @@ This project explores the application of artificial intelligence (AI) and comput
 The project is currently under development as part of ongoing research activities associated with the CAPCell initiative.
 
 ![Conceptual overview of the NSF E-RISE CAPCell initiative: Center for AI-Driven Bioprocess Control for Cell Manufacturing.]
-(f.igures/Capcell_concept.png)
+(./figures/Capcell_concept.png)
 
 ## Research Objectives
 
