@@ -67,15 +67,13 @@ The following videos showcase the AI-based particle detection and tracking pipel
 ### Video 1. YOLO Particle Detection
 [![YOLO Particle Detection](https://img.youtube.com/vi/eqOAUF_y6is/hqdefault.jpg)](https://www.youtube.com/watch?v=eqOAUF_y6is)
 
-https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.avi
-
 ### Video 2. YOLO Particle Tracking
-
-https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracked.mp4
+https://youtu.be/FK5SrCv3sPs
+[![YOLO Particle Tracking](https://img.youtube.com/vi/FK5SrCv3sPs/hqdefault.jpg)](https://www.youtube.com/watch?v=FK5SrCv3sPs)
 
 ### Video 3. DINO Particle Detection and Tracking
-
-https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4
+https://youtu.be/JquBo0jxlCk
+[![DINO Particle Detection and Tracking](https://img.youtube.com/vi/JquBo0jxlCk/hqdefault.jpg)](https://www.youtube.com/watch?v=JquBo0jxlCk)
 
 
 
