@@ -60,21 +60,22 @@ Progress to date includes:
 
 Additional development and evaluation are ongoing. The methods, results, and capabilities presented here may evolve as the research progresses.
 
-<video src="./folder/videos/YOLO_detection.mp4" controls></video>
+## Video Demonstrations
 
-**(a) YOLO Particle detection**
+The following videos showcase the AI-based particle detection and tracking pipeline developed for bioreactor environments.
 
-<video src="./folder/videos/YOLO_tracking.mp4" controls></video>
+### Video 1. YOLO Particle Detection
 
-**(b) YOLO particle tracking**
+https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.avi
 
-<video src="./folder/videos/DINO_detection_and_tracking.mp4" controls></video>
+### Video 2. YOLO Particle Tracking
 
-**(c) DINO particle detection and tracking**
+https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracked.mp4
 
-<p align="center">
-  <em>Video 2. Examples of particle detection and tracking in bioreactor videos. The pipeline performs YOLO-based particle detection and tracks individual or multiple particles across consecutive video frames.</em>
-</p>
+### Video 3. DINO Particle Detection and Tracking
+
+https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4
+
 
 
 > **Note:** This is a research showcase, not a software release. Source code, implementation details, and research datasets are not included in this public repository.
