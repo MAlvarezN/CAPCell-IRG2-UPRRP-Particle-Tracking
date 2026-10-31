@@ -61,19 +61,19 @@ Progress to date includes:
 Additional development and evaluation are ongoing. The methods, results, and capabilities presented here may evolve as the research progresses.
 
 <p align="center">
-  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="80%"></video>
+  <video src="./folder/videos/YOLO_detection.mp4" controls width="80%"></video>
   <br>
   <strong>(a) YOLO Particle detection</strong>
 </p>
 
 <p align="center">
-  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracking.mp4" controls width="80%"></video>
+  <video src="./folder/videos/YOLO_tracking.mp4" controls width="80%"></video>
   <br>
   <strong>(b) YOLO particle tracking</strong>
 </p>
 
 <p align="center">
-  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4" controls width="80%"></video>
+  <video src="./folder/videos/DINO_detection_and_tracking.mp4" controls width="80%"></video>
   <br>
   <strong>(c) DINO particle detection and tracking</strong>
 </p>
