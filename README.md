@@ -24,13 +24,31 @@ The main objectives of this project are to:
 
 The project is actively under development. Current work focuses on developing and evaluating an AI-based pipeline for particle detection and tracking.
 
-![a](/figures/Sample.png)
 
-![b](/figures/Single_particle_tracking.png)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="figures/Sample.png" alt="Particle detection using a fine-tuned YOLO model" width="100%">
+      <br>
+      <strong>(a) Particle detection</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="figures/Single_particle_tracking.png" alt="Single-particle tracking" width="100%">
+      <br>
+      <strong>(b) Single-particle tracking</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="figures/Multiple_particle_tracking.png" alt="Multiple-particle tracking" width="100%">
+      <br>
+      <strong>(c) Multi-particle tracking</strong>
+    </td>
+  </tr>
+</table>
 
-![c](/figures/Multiple_particle_tracking.png)
+<p align="center">
+  <em>Figure 2. Examples of particle detection and tracking in bioreactor videos. The pipeline performs YOLO-based particle detection and tracks individual or multiple particles across consecutive video frames.</em>
+</p>
 
-Examples of particle detection and tracking in bioreactor videos: (a) particle detection using a fine-tuned YOLO model, (b) single-particle tracking, and (c) multi-particle tracking across consecutive video frames.
 
 
 Progress to date includes:
