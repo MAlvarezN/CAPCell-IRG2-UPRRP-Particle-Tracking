@@ -63,19 +63,19 @@ Additional development and evaluation are ongoing. The methods, results, and cap
 <table>
   <tr>
     <td align="center" width="33%">
-      <video src="https://github.com" controls width="100%"></video>
+      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="100%"></video>
       <br>
-      <strong>(a) Particle detection</strong>
+      <strong>(a) YOLO Particle detection</strong>
     </td>
     <td align="center" width="33%">
-      <video src="https://github.com" controls width="100%"></video>
+      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracking.mp4" controls width="100%"></video>
       <br>
-      <strong>(b) Single-particle tracking</strong>
+      <strong>(b) YOLO particle tracking</strong>
     </td>
     <td align="center" width="33%">
-      <video src="https://github.com" controls width="100%"></video>
+      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4" controls width="100%"></video>
       <br>
-      <strong>(c) Multi-particle tracking</strong>
+      <strong>(c) DINO particle detection and tracking</strong>
     </td>
   </tr>
 </table>
