@@ -60,27 +60,23 @@ Progress to date includes:
 
 Additional development and evaluation are ongoing. The methods, results, and capabilities presented here may evolve as the research progresses.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <video src="https
+<p align="center">
+  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="80%"></video>
+  <br>
+  <strong>(a) YOLO Particle detection</strong>
+</p>
 
-://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="100%"></video>
-      <br>
-      <strong>(a) YOLO Particle detection</strong>
-    </td>
-    <td align="center" width="33%">
-      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracking.mp4" controls width="100%"></video>
-      <br>
-      <strong>(b) YOLO particle tracking</strong>
-    </td>
-    <td align="center" width="33%">
-      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4" controls width="100%"></video>
-      <br>
-      <strong>(c) DINO particle detection and tracking</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_tracking.mp4" controls width="80%"></video>
+  <br>
+  <strong>(b) YOLO particle tracking</strong>
+</p>
+
+<p align="center">
+  <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/DINO_detection_and_tracking.mp4" controls width="80%"></video>
+  <br>
+  <strong>(c) DINO particle detection and tracking</strong>
+</p>
 
 <p align="center">
   <em>Video 2. Examples of particle detection and tracking in bioreactor videos. The pipeline performs YOLO-based particle detection and tracks individual or multiple particles across consecutive video frames.</em>
