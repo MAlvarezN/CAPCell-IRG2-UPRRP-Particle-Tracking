@@ -85,11 +85,13 @@ For inquiries about the research, potential collaborations, or opportunities to 
 
 Please reach out through GitHub or the contact information available on my academic profile.
 
+
 ## Acknowledgments
 
-This work is associated with ongoing research activities within the CAPCell initiative.  Center for AI-Driven Bioprocess Control for Cell Manufacturing (CAPCell) (NSF Award 2546506)
+This research is conducted within the **Center for AI-Driven Bioprocess Control for Cell Manufacturing (CAPCell)** initiative, supported by the U.S. National Science Foundation through NSF Award [2546506](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2546506).
 
-Additional project information and acknowledgments will be provided as the research progresses.
+Additional acknowledgments and project information will be added as the research progresses.
+
 
 ---
 
