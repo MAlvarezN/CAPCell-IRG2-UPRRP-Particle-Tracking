@@ -8,7 +8,7 @@ This project explores the application of artificial intelligence (AI) and comput
 
 The project is currently under development as part of ongoing research activities associated with the CAPCell initiative.
 
-![Mi logo](/figures/Capcell_concept.png)
+![Conceptual overview of the NSF E-RISE CAPCell initiative: Center for AI-Driven Bioprocess Control for Cell Manufacturing](/figures/Capcell_concept.png)
 
 
 ## Research Objectives
@@ -24,9 +24,14 @@ The main objectives of this project are to:
 
 The project is actively under development. Current work focuses on developing and evaluating an AI-based pipeline for particle detection and tracking.
 
-![Mi logo](/figures/Sample.png)
-![Mi logo](/figures/Single particle tracking.png)
-![Mi logo](/figures/Multiple particle tracking.png)
+![a](/figures/Sample.png)
+
+![b](/figures/Single_particle_tracking.png)
+
+![c](/figures/Multiple_particle_tracking.png)
+
+Examples of particle detection and tracking in bioreactor videos: (a) particle detection using a fine-tuned YOLO model, (b) single-particle tracking, and (c) multi-particle tracking across consecutive video frames.
+
 
 Progress to date includes:
 
