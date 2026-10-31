@@ -63,7 +63,9 @@ Additional development and evaluation are ongoing. The methods, results, and cap
 <table>
   <tr>
     <td align="center" width="33%">
-      <video src="https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="100%"></video>
+      <video src="https
+
+://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.mp4" controls width="100%"></video>
       <br>
       <strong>(a) YOLO Particle detection</strong>
     </td>
