@@ -6,7 +6,7 @@
 
 This project explores the application of artificial intelligence (AI) and computer vision techniques to detect and track particles in bioreactor environments. The goal is to develop computational tools that support the analysis of particle motion and behavior, contributing to improved monitoring and understanding of bioprocesses.
 
-The project is currently under development as part of ongoing research activities associated with the CAPCell initiative.
+The project is currently under development as part of ongoing research activities associated with the Center for AI-Driven Bioprocess Control for Cell Manufacturing (CAPCell) initiative.
 
 ![Conceptual overview of the NSF E-RISE CAPCell initiative: Center for AI-Driven Bioprocess Control for Cell Manufacturing](/figures/Capcell_concept.png)
 
@@ -42,11 +42,6 @@ Progress to date includes:
 
 Additional development and evaluation are ongoing. The methods, results, and capabilities presented here may evolve as the research progresses.
 
-## Selected Results
-
-This repository will showcase selected visual results illustrating the project's progress, including particle detection, tracking outputs, and representative video frames.
-
-*Figures and visual demonstrations will be added as results become available for public dissemination.*
 
 > **Note:** This is a research showcase, not a software release. Source code, implementation details, and research datasets are not included in this public repository.
 
@@ -74,7 +69,7 @@ Please reach out through GitHub or the contact information available on my acade
 
 ## Acknowledgments
 
-This work is associated with ongoing research activities within the CAPCell initiative.
+This work is associated with ongoing research activities within the CAPCell initiative.  Center for AI-Driven Bioprocess Control for Cell Manufacturing (CAPCell) (NSF Award 2546506)
 
 Additional project information and acknowledgments will be provided as the research progresses.
 
