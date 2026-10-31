@@ -65,6 +65,7 @@ Additional development and evaluation are ongoing. The methods, results, and cap
 The following videos showcase the AI-based particle detection and tracking pipeline developed for bioreactor environments.
 
 ### Video 1. YOLO Particle Detection
+[![YOLO Particle Detection](https://img.youtube.com/vi/eqOAUF_y6is/hqdefault.jpg)](https://www.youtube.com/watch?v=eqOAUF_y6is)
 
 https://github.com/MAlvarezN/CAPCell-IRG2-UPRRP-Particle-Tracking/raw/refs/heads/main/folder/videos/YOLO_detection.avi
 
