@@ -10,6 +10,8 @@ The project is currently under development as part of ongoing research activitie
 
 ![Conceptual overview of the NSF E-RISE CAPCell initiative: Center for AI-Driven Bioprocess Control for Cell Manufacturing.]
 (./figures/Capcell_concept.png)
+![Mi logo](/figures/Capcell_concept.png)
+
 
 ## Research Objectives
 
